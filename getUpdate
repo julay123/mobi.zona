@@ -1,5 +1,5 @@
 {
-    "apkUrl": "https://ad1.vibio.tv/direct/apk/zona2.apk",
+    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/219/Zona.v.2.0.144.b.219.crk.Custom.Patch.apk",
     "whatsNew": [
         {
             "appVersion": "2.0.2",
@@ -967,7 +967,7 @@
         }
     ],
     "versionCode": 219,
-    "vastUrl": "https://vastw.admulti.com/getVast?placeId=3",
-    "noadVastUrl": "https://apiw1.mzona.net/static/vast.xml",
+    "vastUrl": "",
+    "noadVastUrl": "",
     "apiHost": "https://apiw1.mzona.net"
 }
