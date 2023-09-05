@@ -1,0 +1,973 @@
+{
+    "apkUrl": "https://ad1.vibio.tv/direct/apk/zona2.apk",
+    "whatsNew": [
+        {
+            "appVersion": "2.0.2",
+            "releaseDate": "2021-10-21",
+            "messages": [
+                {
+                    "text": "Исправлена сортировка актёров",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.2",
+            "versionCode": 77
+        },
+        {
+            "appVersion": "2.0.3",
+            "releaseDate": "2021-10-26",
+            "messages": [
+                {
+                    "text": "Исправлены ТВ-каналы",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.3",
+            "versionCode": 78
+        },
+        {
+            "appVersion": "2.0.4",
+            "releaseDate": "2021-10-28",
+            "messages": [
+                {
+                    "text": "Исправлено воспроизведение некоторых фильмов",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.4",
+            "versionCode": 79
+        },
+        {
+            "appVersion": "2.0.5",
+            "releaseDate": "2021-11-09",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.5",
+            "versionCode": 80
+        },
+        {
+            "appVersion": "2.0.6",
+            "releaseDate": "2021-11-15",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.6",
+            "versionCode": 81
+        },
+        {
+            "appVersion": "2.0.7",
+            "releaseDate": "2021-11-18",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.7",
+            "versionCode": 82
+        },
+        {
+            "appVersion": "2.0.8",
+            "releaseDate": "2021-11-22",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.8",
+            "versionCode": 83
+        },
+        {
+            "appVersion": "2.0.9",
+            "releaseDate": "2021-11-25",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.9",
+            "versionCode": 84
+        },
+        {
+            "appVersion": "2.0.10",
+            "releaseDate": "2021-11-26",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.10",
+            "versionCode": 85
+        },
+        {
+            "appVersion": "2.0.11",
+            "releaseDate": "2021-11-27",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.11",
+            "versionCode": 86
+        },
+        {
+            "appVersion": "2.0.12",
+            "releaseDate": "2021-11-29",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.12",
+            "versionCode": 87
+        },
+        {
+            "appVersion": "2.0.13",
+            "releaseDate": "2021-12-01",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.13",
+            "versionCode": 88
+        },
+        {
+            "appVersion": "2.0.15",
+            "releaseDate": "2021-12-06",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.15",
+            "versionCode": 90
+        },
+        {
+            "appVersion": "2.0.16",
+            "releaseDate": "2021-12-07",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.16",
+            "versionCode": 91
+        },
+        {
+            "appVersion": "2.0.17",
+            "releaseDate": "2021-12-08",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.17",
+            "versionCode": 92
+        },
+        {
+            "appVersion": "2.0.18",
+            "releaseDate": "2021-12-13",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.18",
+            "versionCode": 93
+        },
+        {
+            "appVersion": "2.0.22",
+            "releaseDate": "2021-12-17",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.22",
+            "versionCode": 97
+        },
+        {
+            "appVersion": "2.0.23",
+            "releaseDate": "2021-12-24",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.23",
+            "versionCode": 98
+        },
+        {
+            "appVersion": "2.0.24",
+            "releaseDate": "2021-12-27",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.24",
+            "versionCode": 99
+        },
+        {
+            "appVersion": "2.0.25",
+            "releaseDate": "2022-01-05",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.25",
+            "versionCode": 100
+        },
+        {
+            "appVersion": "2.0.29",
+            "releaseDate": "2022-02-01",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.29",
+            "versionCode": 104
+        },
+        {
+            "appVersion": "2.0.31",
+            "releaseDate": "2022-02-10",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.31",
+            "versionCode": 106
+        },
+        {
+            "appVersion": "2.0.34",
+            "releaseDate": "2022-02-18",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.34",
+            "versionCode": 109
+        },
+        {
+            "appVersion": "2.0.36",
+            "releaseDate": "2022-02-25",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.36",
+            "versionCode": 111
+        },
+        {
+            "appVersion": "2.0.37",
+            "releaseDate": "2022-02-28",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.37",
+            "versionCode": 112
+        },
+        {
+            "appVersion": "2.0.38",
+            "releaseDate": "2022-03-02",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.38",
+            "versionCode": 113
+        },
+        {
+            "appVersion": "2.0.39",
+            "releaseDate": "2022-03-03",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.39",
+            "versionCode": 114
+        },
+        {
+            "appVersion": "2.0.40",
+            "releaseDate": "2022-03-09",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.40",
+            "versionCode": 115
+        },
+        {
+            "appVersion": "2.0.41",
+            "releaseDate": "2022-03-10",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.41",
+            "versionCode": 116
+        },
+        {
+            "appVersion": "2.0.44",
+            "releaseDate": "2022-03-16",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.44",
+            "versionCode": 119
+        },
+        {
+            "appVersion": "2.0.50",
+            "releaseDate": "2022-03-23",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.50",
+            "versionCode": 125
+        },
+        {
+            "appVersion": "2.0.51",
+            "releaseDate": "2022-04-05",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.51",
+            "versionCode": 126
+        },
+        {
+            "appVersion": "2.0.52",
+            "releaseDate": "2022-04-07",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.52",
+            "versionCode": 127
+        },
+        {
+            "appVersion": "2.0.55",
+            "releaseDate": "2022-04-18",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.55",
+            "versionCode": 130
+        },
+        {
+            "appVersion": "2.0.57",
+            "releaseDate": "2022-04-20",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.57",
+            "versionCode": 132
+        },
+        {
+            "appVersion": "2.0.60",
+            "releaseDate": "2022-05-12",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.60",
+            "versionCode": 135
+        },
+        {
+            "appVersion": "2.0.63",
+            "releaseDate": "2022-05-27",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.63",
+            "versionCode": 138
+        },
+        {
+            "appVersion": "2.0.65",
+            "releaseDate": "2022-05-30",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.65",
+            "versionCode": 140
+        },
+        {
+            "appVersion": "2.0.68",
+            "releaseDate": "2022-06-20",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.68",
+            "versionCode": 143
+        },
+        {
+            "appVersion": "2.0.72",
+            "releaseDate": "2022-07-01",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.72",
+            "versionCode": 147
+        },
+        {
+            "appVersion": "2.0.73",
+            "releaseDate": "2022-07-05",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.73",
+            "versionCode": 148
+        },
+        {
+            "appVersion": "2.0.75",
+            "releaseDate": "2022-07-11",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.75",
+            "versionCode": 150
+        },
+        {
+            "appVersion": "2.0.78",
+            "releaseDate": "2022-07-13",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.78",
+            "versionCode": 153
+        },
+        {
+            "appVersion": "2.0.81",
+            "releaseDate": "2022-07-19",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.81",
+            "versionCode": 156
+        },
+        {
+            "appVersion": "2.0.82",
+            "releaseDate": "2022-07-26",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.82",
+            "versionCode": 157
+        },
+        {
+            "appVersion": "2.0.83",
+            "releaseDate": "2022-07-29",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.83",
+            "versionCode": 158
+        },
+        {
+            "appVersion": "2.0.84",
+            "releaseDate": "2022-08-03",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.84",
+            "versionCode": 159
+        },
+        {
+            "appVersion": "2.0.86",
+            "releaseDate": "2022-08-05",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.86",
+            "versionCode": 161
+        },
+        {
+            "appVersion": "2.0.87",
+            "releaseDate": "2022-08-15",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.87",
+            "versionCode": 162
+        },
+        {
+            "appVersion": "2.0.88",
+            "releaseDate": "2022-08-19",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.88",
+            "versionCode": 163
+        },
+        {
+            "appVersion": "2.0.89",
+            "releaseDate": "2022-09-27",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.89",
+            "versionCode": 164
+        },
+        {
+            "appVersion": "2.0.90",
+            "releaseDate": "2022-09-29",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.90",
+            "versionCode": 165
+        },
+        {
+            "appVersion": "2.0.91",
+            "releaseDate": "2022-09-29",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.91",
+            "versionCode": 166
+        },
+        {
+            "appVersion": "2.0.92",
+            "releaseDate": "2022-09-29",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.92",
+            "versionCode": 167
+        },
+        {
+            "appVersion": "2.0.93",
+            "releaseDate": "2022-10-03",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.93",
+            "versionCode": 168
+        },
+        {
+            "appVersion": "2.0.94",
+            "releaseDate": "2022-10-03",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.94",
+            "versionCode": 169
+        },
+        {
+            "appVersion": "2.0.95",
+            "releaseDate": "2022-10-03",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.95",
+            "versionCode": 170
+        },
+        {
+            "appVersion": "2.0.96",
+            "releaseDate": "2022-10-07",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.96",
+            "versionCode": 171
+        },
+        {
+            "appVersion": "2.0.97",
+            "releaseDate": "2022-10-11",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.97",
+            "versionCode": 172
+        },
+        {
+            "appVersion": "2.0.98",
+            "releaseDate": "2022-10-17",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.98",
+            "versionCode": 173
+        },
+        {
+            "appVersion": "2.0.100",
+            "releaseDate": "2022-11-11",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.100",
+            "versionCode": 175
+        },
+        {
+            "appVersion": "2.0.102",
+            "releaseDate": "2022-11-24",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.102",
+            "versionCode": 177
+        },
+        {
+            "appVersion": "2.0.105",
+            "releaseDate": "2022-12-24",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.105",
+            "versionCode": 180
+        },
+        {
+            "appVersion": "2.0.109",
+            "releaseDate": "2023-02-08",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.109",
+            "versionCode": 184
+        },
+        {
+            "appVersion": "2.0.110",
+            "releaseDate": "2023-02-09",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.110",
+            "versionCode": 185
+        },
+        {
+            "appVersion": "2.0.111",
+            "releaseDate": "2023-03-03",
+            "messages": [
+                {
+                    "text": "Субтитры",
+                    "title": null
+                },
+                {
+                    "text": "Возможность поделиться фильмом",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.111",
+            "versionCode": 186
+        },
+        {
+            "appVersion": "2.0.116",
+            "releaseDate": "2023-03-17",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.116",
+            "versionCode": 191
+        },
+        {
+            "appVersion": "2.0.117",
+            "releaseDate": "2023-03-17",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.117",
+            "versionCode": 192
+        },
+        {
+            "appVersion": "2.0.122",
+            "releaseDate": "2023-03-31",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.122",
+            "versionCode": 197
+        },
+        {
+            "appVersion": "2.0.123",
+            "releaseDate": "2023-04-20",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.123",
+            "versionCode": 198
+        },
+        {
+            "appVersion": "2.0.124",
+            "releaseDate": "2023-04-24",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.124",
+            "versionCode": 199
+        },
+        {
+            "appVersion": "2.0.131",
+            "releaseDate": "2023-06-14",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.131",
+            "versionCode": 206
+        },
+        {
+            "appVersion": "2.0.132",
+            "releaseDate": "2023-06-19",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.132",
+            "versionCode": 207
+        },
+        {
+            "appVersion": "2.0.134",
+            "releaseDate": "2023-06-21",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.134",
+            "versionCode": 209
+        },
+        {
+            "appVersion": "2.0.135",
+            "releaseDate": "2023-06-21",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.135",
+            "versionCode": 210
+        },
+        {
+            "appVersion": "2.0.136",
+            "releaseDate": "2023-07-04",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.136",
+            "versionCode": 211
+        },
+        {
+            "appVersion": "2.0.137",
+            "releaseDate": "2023-07-18",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.137",
+            "versionCode": 212
+        },
+        {
+            "appVersion": "2.0.140",
+            "releaseDate": "2023-08-18",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.140",
+            "versionCode": 215
+        },
+        {
+            "appVersion": "2.0.142",
+            "releaseDate": "2023-08-24",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.142",
+            "versionCode": 217
+        },
+        {
+            "appVersion": "2.0.144",
+            "releaseDate": "2023-09-03",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.144",
+            "versionCode": 219
+        }
+    ],
+    "versionCode": 219,
+    "vastUrl": "https://vastw.admulti.com/getVast?placeId=3",
+    "noadVastUrl": "https://apiw1.mzona.net/static/vast.xml",
+    "apiHost": "https://apiw1.mzona.net"
+}
