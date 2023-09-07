@@ -1,5 +1,5 @@
 {
-    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/219/Zona.v.2.0.144.b.219.crk.Custom.Patch.apk",
+    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/219/zona2.apk",
     "whatsNew": [
         {
             "appVersion": "2.0.2",
@@ -966,7 +966,7 @@
             "versionCode": 219
         }
     ],
-    "versionCode": 217,
+    "versionCode": 219,
     "vastUrl": "",
     "noadVastUrl": "",
     "apiHost": "https://apiw1.mzona.net"
