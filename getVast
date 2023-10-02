@@ -1,1 +1,22 @@
-<VAST version="3.0"></VAST>
+<VAST version="3.0"><Ad id="9">
+<Wrapper fallbackOnNoAd="true">
+<AdSystem>ZJCompany</AdSystem>
+<Impression>
+https://event.admulti.com/event?eventId=1&campaignId=9&placeId=3
+</Impression>
+<VASTAdTagURI>
+https://aj1907.online/zXy5UhNdu4-EnuulrZmUOAx36PVChpJcVD1NrUucRbx_UlAs5oEB883BtbttG_ehJZmKqgKysmHbtXWuPO3zfI0OEkeD5xBk
+</VASTAdTagURI>
+<Creatives>
+<Creative>
+<Linear>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension type="waterfall" fallback_index="0"/>
+<Extension type="volume" value="0.2"/>
+</Extensions>
+</Wrapper>
+</Ad>
+</VAST>
