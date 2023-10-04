@@ -7,8 +7,10 @@
         <Creative id="1" sequence="1">
           <Linear>
             <TrackingEvents/>
-            <Duration>00:00:19</Duration>
             <MediaFiles>
+              <MediaFile delivery="progressive" type="text/html">
+https://github.com/julay123/mobi.zona/raw/main/getTime
+</MediaFile>
             </MediaFiles>
           </Linear>
         </Creative>
