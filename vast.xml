@@ -8,7 +8,7 @@
           <Linear>
             <TrackingEvents/>
             <MediaFiles>
-              <MediaFile delivery="progressive">
+              <MediaFile delivery="progressive" type="video/mp4">
                 https://github.com/julay123/mobi.zona/blob/main/gif.gif
               </MediaFile>
             </MediaFiles>
