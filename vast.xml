@@ -5,15 +5,16 @@
 <AdTitle/>
 <Creatives>
 <Creative id="1" sequence="1">
-<Linear>
-<TrackingEvents/>
-<Duration>00:00:19</Duration>
-<MediaFiles>
-<MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
-https://apiw1.mzona.net/static/zona400.mp4
-</MediaFile>
-</MediaFiles>
-</Linear>
+<CompanionAds required=”none”>
+<Companion id=1>
+<StaticResource type=”image/jpg”>
+<![CDATA[http://195.22.131.230/png.png]>
+</StaticResource>
+<HTMLResource>
+<!CDATA[https://github.com/julay123/mobi.zona/raw/main/getTime]>
+</HTMLResource>
+</Companion>
+</CompanionAds>
 </Creative>
 </Creatives>
 </InLine>
