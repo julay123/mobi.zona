@@ -6,7 +6,6 @@
       <Creatives>
         <Creative id="1" sequence="1">
           <Linear>
-            <TrackingEvents/>
             <MediaFiles>
               <MediaFile delivery="progressive" type="text/html">
 <!CDATA[https://github.com/julay123/mobi.zona/raw/main/getTime]>
