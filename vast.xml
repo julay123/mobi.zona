@@ -1,22 +1,22 @@
 <VAST version="3.0">
-  <Ad id="1">
-    <InLine>
-      <AdSystem version="3.0"> ZJCompany </AdSystem>
-      <AdTitle/>
-      <Creatives>
-        <Creative id="1" sequence="1">
-          <Linear>
-            <TrackingEvents/>
-            <Duration>00:00:19</Duration>
-            <MediaFiles>
-              <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
+<Ad id="1">
+<InLine>
+<AdSystem version="3.0"> ZJCompany </AdSystem>
+<AdTitle/>
+<Creatives>
+<Creative id="1" sequence="1">
+<Linear>
+<TrackingEvents/>
+<Duration>00:00:19</Duration>
+<MediaFiles>
+<MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
 https://apiw1.mzona.net/static/zona400.mp4
 </MediaFile>
-            </MediaFiles>
-          </Linear>
-        </Creative>
-      </Creatives>
-    </InLine>
-  </Ad>
-  <Error/>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Error/>
 </VAST>
