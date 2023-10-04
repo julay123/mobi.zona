@@ -7,7 +7,7 @@
         <Creative id="1" sequence="1">
           <Linear>
             <TrackingEvents/>
-            <Duration>00:00:00</Duration>
+            <Duration>00:00:01</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
 https://apiw1.mzona.net/static/zona400.mp4
