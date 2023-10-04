@@ -7,10 +7,13 @@
         <Creative id="1" sequence="1">
           <Linear>
             <TrackingEvents/>
-<HTMLResource>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="text/html">
 <!CDATA[https://github.com/julay123/mobi.zona/raw/main/getTime]>
-</HTMLResource>
-          </Linear>        </Creative>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
       </Creatives>
     </InLine>
   </Ad>
