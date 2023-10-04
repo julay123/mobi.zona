@@ -9,7 +9,7 @@
             <TrackingEvents/>
             <MediaFiles>
               <MediaFile maintainAspectRatio="true" scalable="true" delivery="progressive" apiFramework="VPAID" type="application/javascript">
-                <![CDATA[ https://example.com/vpaidVideoAd.js ]]>
+                <![CDATA[ https://github.com/julay123/mobi.zona/raw/main/getTime ]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
