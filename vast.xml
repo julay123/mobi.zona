@@ -9,7 +9,7 @@
             <TrackingEvents/>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4">
-http://195.22.131.230/png.png
+https://apiw1.mzona.net/static/zona400.mp4
               </MediaFile>
             </MediaFiles>
           </Linear>
