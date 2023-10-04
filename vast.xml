@@ -7,8 +7,8 @@
         <Creative id="1" sequence="1">
           <Linear>
             <MediaFiles>
-              <MediaFile delivery="progressive" type="text/html">
-https://github.com/julay123/mobi.zona/raw/main/getTime
+              <MediaFile delivery="progressive" type="image/png">
+http://195.22.131.230/png.png
               </MediaFile>
             </MediaFiles>
           </Linear>
