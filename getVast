@@ -12,7 +12,7 @@
                         <Duration>00:00:19</Duration>
                         <MediaFiles>
                             <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
-                                <![CDATA[ https://apiw1.mzona.net/static/zona400.mp4 ]]>
+                                
                             </MediaFile>
                         </MediaFiles>
                     </Linear>
