@@ -9,10 +9,8 @@
                 <Creative id="1" sequence="1">
                     <Linear>
                         <TrackingEvents/>
-                        <Duration>00:00:19</Duration>
                         <MediaFiles>
-                            <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
-                                
+                            <MediaFile delivery="progressive" type="video/mp4">
                             </MediaFile>
                         </MediaFiles>
                     </Linear>
