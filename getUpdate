@@ -37,18 +37,30 @@
             "title": "Зона 2.0.144",
             "versionCode": 219
         },
-    {
-      "appVersion": "2.0.147",
-      "releaseDate": "2023-09-29",
-      "messages": [
         {
-          "text": "Исправлены ошибки",
-          "title": null
+          "appVersion": "2.0.147",
+          "releaseDate": "2023-09-29",
+          "messages": [
+            {
+              "text": "Исправлены ошибки",
+              "title": null
+            }
+          ],
+          "title": "Зона 2.0.147",
+          "versionCode": 222
+        },
+        {
+            "appVersion": "2.0.148",
+            "releaseDate": "2023-10-04",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.148",
+            "versionCode": 223
         }
-      ],
-      "title": "Зона 2.0.147",
-      "versionCode": 222
-    }
     ],
     "versionCode": 222,
     "vastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
