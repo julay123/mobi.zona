@@ -10,7 +10,7 @@
                     <Linear>
                         <TrackingEvents/>
                         <MediaFiles>
-                            <MediaFile delivery="progressive" type="video/mp4">http://195.22.131.230/zona/png.png
+                            <MediaFile delivery="progressive" type="video/mp4">
                             </MediaFile>
                         </MediaFiles>
                     </Linear>
