@@ -1,5 +1,5 @@
 {
-    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/223/zona2.apk",
+    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/227/zona2.apk",
     "whatsNew": [
         {
             "appVersion": "2.0.140",
@@ -60,9 +60,21 @@
             ],
             "title": "Зона 2.0.148",
             "versionCode": 223
+        },
+        {
+            "appVersion": "2.0.152",
+            "releaseDate": "2023-10-31",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.0.152",
+            "versionCode": 227
         }
     ],
-    "versionCode": 223,
+    "versionCode": 227,
     "vastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "noadVastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "apiHost": "https://apiw1.mzona.net"
