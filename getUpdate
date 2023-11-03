@@ -74,7 +74,7 @@
             "versionCode": 227
         }
     ],
-    "versionCode": 223,
+    "versionCode": 227,
     "vastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "noadVastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "apiHost": "https://apiw1.mzona.net"
