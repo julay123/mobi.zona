@@ -1,22 +1,42 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+
 <VAST version="3.0">
-    <Ad id="1">
-        <InLine>
-            <AdSystem version="3.0">
-                <![CDATA[ ZJCompany ]]>
-            </AdSystem>
-            <AdTitle/>
-            <Creatives>
-                <Creative id="1" sequence="1">
-                    <Linear>
-                        <TrackingEvents/>
-                        <MediaFiles>
-                            <MediaFile delivery="progressive" type="video/mp4">
-                            </MediaFile>
-                        </MediaFiles>
-                    </Linear>
-                </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Error/>
+	<Ad id="9">
+		<Wrapper fallbackOnNoAd="true">
+			<AdSystem>ZJCompany</AdSystem>
+			<Impression>
+			</Impression>
+			<VASTAdTagURI>
+			</VASTAdTagURI>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<VideoClicks>
+							<ClickTracking>
+							</ClickTracking>
+						</VideoClicks>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</Wrapper>
+	</Ad>
+	<Ad id="18">
+		<Wrapper fallbackOnNoAd="true">
+			<AdSystem>ZJCompany</AdSystem>
+			<Impression>
+			</Impression>
+			<VASTAdTagURI>
+			</VASTAdTagURI>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<VideoClicks>
+							<ClickTracking>
+							</ClickTracking>
+						</VideoClicks>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</Wrapper>
+	</Ad>
 </VAST>
