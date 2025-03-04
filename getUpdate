@@ -1,104 +1,20 @@
 {
-    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/242/zona2.apk",
+    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/554/Zona2.apk",
     "whatsNew": [
         {
-            "appVersion": "2.0.140",
-            "releaseDate": "2023-08-18",
+            "appVersion": "2.1.54",
+            "releaseDate": "2025-03-04",
             "messages": [
                 {
                     "text": "Исправлены ошибки",
                     "title": null
                 }
             ],
-            "title": "Зона 2.0.140",
-            "versionCode": 215
-        },
-        {
-            "appVersion": "2.0.142",
-            "releaseDate": "2023-08-24",
-            "messages": [
-                {
-                    "text": "Исправлены ошибки",
-                    "title": null
-                }
-            ],
-            "title": "Зона 2.0.142",
-            "versionCode": 217
-        },
-        {
-            "appVersion": "2.0.144",
-            "releaseDate": "2023-09-03",
-            "messages": [
-                {
-                    "text": "Исправлены ошибки",
-                    "title": null
-                }
-            ],
-            "title": "Зона 2.0.144",
-            "versionCode": 219
-        },
-        {
-          "appVersion": "2.0.147",
-          "releaseDate": "2023-09-29",
-          "messages": [
-            {
-              "text": "Исправлены ошибки",
-              "title": null
-            }
-          ],
-          "title": "Зона 2.0.147",
-          "versionCode": 222
-        },
-        {
-            "appVersion": "2.0.148",
-            "releaseDate": "2023-10-04",
-            "messages": [
-                {
-                    "text": "Исправлены ошибки",
-                    "title": null
-                }
-            ],
-            "title": "Зона 2.0.148",
-            "versionCode": 223
-        },
-        {
-            "appVersion": "2.0.152",
-            "releaseDate": "2023-10-31",
-            "messages": [
-                {
-                    "text": "Исправлены ошибки",
-                    "title": null
-                }
-            ],
-            "title": "Зона 2.0.152",
-            "versionCode": 227
-        },
-        {
-            "appVersion": "2.0.159",
-            "releaseDate": "2023-11-24",
-            "messages": [
-                {
-                    "text": "Исправлены ошибки",
-                    "title": null
-                }
-            ],
-            "title": "Зона 2.0.159",
-            "versionCode": 235
-        },
-        {
-            "appVersion": "2.0.166",
-            "releaseDate": "2023-12-19",
-            "messages": [
-                {
-                    "text": "Исправлены ошибки",
-                    "title": null
-                }
-            ],
-            "title": "Зона 2.0.166",
-            "versionCode": 242
+            "title": "Зона 2.1.54",
+            "versionCode": 554
         }
     ],
-    "versionCode": 242,
+    "versionCode": 554,
     "vastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "noadVastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "apiHost": "https://apiw1.mzona.net"
