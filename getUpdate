@@ -1,5 +1,5 @@
 {
-    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/554/Zona2.apk",
+    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/555/Zona2.1.55_ultra_aligned.apk",
     "whatsNew": [
         {
             "appVersion": "2.1.54",
@@ -12,9 +12,21 @@
             ],
             "title": "Зона 2.1.54",
             "versionCode": 554
+        },
+        {
+            "appVersion": "2.1.55",
+            "releaseDate": "2025-03-07",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.1.55",
+            "versionCode": 555
         }
     ],
-    "versionCode": 554,
+    "versionCode": 555,
     "vastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "noadVastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "apiHost": "https://apiw1.mzona.net"
