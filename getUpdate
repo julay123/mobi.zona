@@ -35,11 +35,11 @@
                 }
             ],
             "title": "Зона 2.1.56",
-            "versionCode": 555
+            "versionCode": 556
         }
 
     ],
-    "versionCode": 556,
+    "versionCode": 555,
     "vastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "noadVastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "apiHost": "https://apiw1.mzona.net"
