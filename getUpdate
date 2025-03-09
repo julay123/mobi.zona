@@ -24,9 +24,22 @@
             ],
             "title": "Зона 2.1.55",
             "versionCode": 555
+        },
+        {
+            "appVersion": "2.1.56",
+            "releaseDate": "2025-03-08",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.1.56",
+            "versionCode": 556
         }
+
     ],
-    "versionCode": 555,
+    "versionCode": 556,
     "vastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "noadVastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "apiHost": "https://apiw1.mzona.net"
