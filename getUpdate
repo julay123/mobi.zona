@@ -40,7 +40,7 @@
 
     ],
     "versionCode": 555,
-    "vastUrl": 0,
-    "noadVastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast2",
+    "vastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
+    "noadVastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "apiHost": "https://apiw1.mzona.net"
 }
