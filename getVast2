@@ -1,8 +1,21 @@
 <VAST version="3.0">
     <Ad id="1">
         <InLine>
-                           <MediaFile delivery="progressive" type="video/mp4">
-
+            <AdSystem version="3.0">
+                <![CDATA[ ZJCompany ]]>
+            </AdSystem>
+            <AdTitle/>
+            <Creatives>
+                <Creative id="1" sequence="1">
+                    <Linear>
+                        <TrackingEvents/>
+                        <MediaFiles>
+                            <!-- MediaFile delivery="progressive" type="video/mp4" -->
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
         </InLine>
     </Ad>
     <Error/>
