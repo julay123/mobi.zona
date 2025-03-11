@@ -10,8 +10,8 @@
                     <Linear>
                         <TrackingEvents/>
                         <MediaFiles>
-                            <!-- MediaFile delivery="progressive" type="video/mp4" -->
-                            </MediaFile>
+                            <!-- MediaFile delivery="progressive" type="video/mp4">
+                            </MediaFile -->
                         </MediaFiles>
                     </Linear>
                 </Creative>
