@@ -9,10 +9,10 @@
                 <Creative id="1" sequence="1">
                     <Linear>
                         <TrackingEvents/>
-                        <MediaFiles>
+                        <!-- MediaFiles>
                             <MediaFile delivery="progressive" type="video/mp4">
                             </MediaFile>
-                        </MediaFiles>
+                        </MediaFiles -->
                     </Linear>
                 </Creative>
             </Creatives>
