@@ -1,5 +1,5 @@
 {
-    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/570/Zona2.1.70_ultra_aligned.apk",
+    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/575/Zona2.1.75_ultra_aligned.apk",
     "whatsNew": [
         {
             "appVersion": "2.1.54",
@@ -60,9 +60,21 @@
             ],
             "title": "Зона 2.1.70",
             "versionCode": 570
+        },
+        {
+            "appVersion": "2.1.75",
+            "releaseDate": "2025-09-19",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 2.1.75",
+            "versionCode": 575
         }
     ],
-    "versionCode": 570,
+    "versionCode": 575,
     "vastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "noadVastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "apiHost": "https://apiw1.mzona.net"
