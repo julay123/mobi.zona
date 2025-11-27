@@ -2,76 +2,28 @@
     "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/575/Zona2.1.75_ultra_aligned.apk",
     "whatsNew": [
         {
-            "appVersion": "2.1.54",
-            "releaseDate": "2025-03-04",
+            "appVersion": "3.0.28",
+            "releaseDate": "2025-11-21",
             "messages": [
                 {
                     "text": "Исправлены ошибки",
                     "title": null
                 }
             ],
-            "title": "Зона 2.1.54",
-            "versionCode": 554
+            "title": "Зона 3.0.28",
+            "versionCode": 1028
         },
         {
-            "appVersion": "2.1.55",
-            "releaseDate": "2025-03-07",
+            "appVersion": "3.0.29",
+            "releaseDate": "2025-11-25",
             "messages": [
                 {
                     "text": "Исправлены ошибки",
                     "title": null
                 }
             ],
-            "title": "Зона 2.1.55",
-            "versionCode": 555
-        },
-        {
-            "appVersion": "2.1.56",
-            "releaseDate": "2025-03-08",
-            "messages": [
-                {
-                    "text": "Исправлены ошибки",
-                    "title": null
-                }
-            ],
-            "title": "Зона 2.1.56",
-            "versionCode": 556
-        },
-        {
-            "appVersion": "2.1.60",
-            "releaseDate": "2025-05-21",
-            "messages": [
-                {
-                    "text": "Исправлены ошибки",
-                    "title": null
-                }
-            ],
-            "title": "Зона 2.1.60",
-            "versionCode": 560
-        },
-        {
-            "appVersion": "2.1.70",
-            "releaseDate": "2025-08-07",
-            "messages": [
-                {
-                    "text": "Исправлены ошибки",
-                    "title": null
-                }
-            ],
-            "title": "Зона 2.1.70",
-            "versionCode": 570
-        },
-        {
-            "appVersion": "2.1.75",
-            "releaseDate": "2025-09-19",
-            "messages": [
-                {
-                    "text": "Исправлены ошибки",
-                    "title": null
-                }
-            ],
-            "title": "Зона 2.1.75",
-            "versionCode": 575
+            "title": "Зона 3.0.29",
+            "versionCode": 1029
         }
     ],
     "versionCode": 575,
