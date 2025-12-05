@@ -36,6 +36,18 @@
             ],
             "title": "Зона 3.0.30",
             "versionCode": 1030
+        },
+        {
+            "appVersion": "3.0.31",
+            "releaseDate": "2025-12-05",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.31",
+            "versionCode": 1031
         }
     ],
     "versionCode": 1030,
