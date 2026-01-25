@@ -1,5 +1,5 @@
 {
-    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/1037/zona3.0.37_ultra_aligned.apk",
+    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/1040/zona_3.0.40_ultra_aligned.apk",
     "whatsNew": [
         {
             "appVersion": "3.0.28",
@@ -120,9 +120,33 @@
             ],
             "title": "Зона 3.0.37",
             "versionCode": 1037
+        },
+        {
+            "appVersion": "3.0.39",
+            "releaseDate": "2026-01-21",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.39",
+            "versionCode": 1039
+        },
+        {
+            "appVersion": "3.0.40",
+            "releaseDate": "2026-01-23",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.40",
+            "versionCode": 1040
         }
-    ],
-    "versionCode": 1037,
+     ],
+    "versionCode": 1040,
     "vastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "noadVastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "apiHost": "https://apiw1.mzona.net"
