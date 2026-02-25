@@ -1,0 +1,201 @@
+{
+    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/1044/FreeZona_3.0.44_ultra_aligned.apk",
+    "whatsNew": [
+        {
+            "appVersion": "3.0.28",
+            "releaseDate": "2025-11-21",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.28",
+            "versionCode": 1028
+        },
+        {
+            "appVersion": "3.0.29",
+            "releaseDate": "2025-11-25",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.29",
+            "versionCode": 1029
+        },
+        {
+            "appVersion": "3.0.30",
+            "releaseDate": "2025-11-28",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.30",
+            "versionCode": 1030
+        },
+        {
+            "appVersion": "3.0.31",
+            "releaseDate": "2025-12-05",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.31",
+            "versionCode": 1031
+        },
+        {
+            "appVersion": "3.0.32",
+            "releaseDate": "2025-12-16",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.32",
+            "versionCode": 1032
+        },
+        {
+            "appVersion": "3.0.33",
+            "releaseDate": "2025-12-19",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.33",
+            "versionCode": 1033
+        },
+        {
+            "appVersion": "3.0.34",
+            "releaseDate": "2025-12-26",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.34",
+            "versionCode": 1034
+        },
+        {
+            "appVersion": "3.0.35",
+            "releaseDate": "2025-12-30",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.35",
+            "versionCode": 1035
+        },
+        {
+            "appVersion": "3.0.36",
+            "releaseDate": "2026-01-02",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.36",
+            "versionCode": 1036
+        },
+        {
+            "appVersion": "3.0.37",
+            "releaseDate": "2026-01-13",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.37",
+            "versionCode": 1037
+        },
+        {
+            "appVersion": "3.0.39",
+            "releaseDate": "2026-01-21",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.39",
+            "versionCode": 1039
+        },
+        {
+            "appVersion": "3.0.40",
+            "releaseDate": "2026-01-23",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.40",
+            "versionCode": 1040
+        },
+        {
+            "appVersion": "3.0.41",
+            "releaseDate": "2026-01-30",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.41",
+            "versionCode": 1041
+        },
+        {
+            "appVersion": "3.0.42",
+            "releaseDate": "2026-02-06",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.42",
+            "versionCode": 1042
+        },
+        {
+            "appVersion": "3.0.43",
+            "releaseDate": "2026-02-14",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.43",
+            "versionCode": 1043
+        },
+        {
+            "appVersion": "3.0.44",
+            "releaseDate": "2026-02-17",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.44",
+            "versionCode": 1044
+        }
+    ],
+    "versionCode": 0,
+    "vastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
+    "noadVastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
+    "apiHost": "https://apiw1.mzona.net"
+}
