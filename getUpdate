@@ -1,5 +1,5 @@
 {
-    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/1044/FreeZona_3.0.44_ultra_aligned.apk",
+    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/1045/FreeZona_3.0.45_ultra_aligned.apk",
     "whatsNew": [
         {
             "appVersion": "3.0.28",
@@ -192,9 +192,21 @@
             ],
             "title": "Зона 3.0.44",
             "versionCode": 1044
+        },
+        {
+            "appVersion": "3.0.45",
+            "releaseDate": "2026-02-24",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.45",
+            "versionCode": 1045
         }
-    ],
-    "versionCode": 1044,
+      ],
+    "versionCode": 1045,
     "vastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "noadVastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "apiHost": "https://apiw1.mzona.net"
