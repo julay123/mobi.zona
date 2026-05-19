@@ -361,7 +361,7 @@
             "title": "Зона 3.0.58",
             "versionCode": 1058
         }
-      ],
+    ],
     "versionCode": 1058,
     "vastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "noadVastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
