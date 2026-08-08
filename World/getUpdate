@@ -1,0 +1,81 @@
+{
+    "apkUrl": "https://github.com/julay123/mobi.zona/releases/download/1065/FreeZona_3.0.65_ultra_aligned.apk",
+    "whatsNew": [
+        {
+            "appVersion": "3.0.60",
+            "releaseDate": "2026-06-01",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.60",
+            "versionCode": 1060
+        },
+        {
+            "appVersion": "3.0.61",
+            "releaseDate": "2026-06-03",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.61",
+            "versionCode": 1061
+        },
+        {
+            "appVersion": "3.0.62",
+            "releaseDate": "2026-06-16",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.62",
+            "versionCode": 1062
+        },
+        {
+            "appVersion": "3.0.63",
+            "releaseDate": "2026-06-25",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.63",
+            "versionCode": 1063
+        },
+        {
+            "appVersion": "3.0.64",
+            "releaseDate": "2026-07-03",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.64",
+            "versionCode": 1064
+        },
+        {
+            "appVersion": "3.0.65",
+            "releaseDate": "2026-07-10",
+            "messages": [
+                {
+                    "text": "Исправлены ошибки",
+                    "title": null
+                }
+            ],
+            "title": "Зона 3.0.65",
+            "versionCode": 1065
+        }
+    ],
+    "versionCode": 1065,
+    "vastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
+    "noadVastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
+    "apiHost": "https://apiw1.mzona.net"
+}
