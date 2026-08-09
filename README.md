@@ -31,4 +31,6 @@ FreeZona_3.0.XX.apk  | версия как в оригинале
 FreeZona_3.0.XX_RU.apk  | версия для РФ
 FreeZona_3.0.XX_World.apk  | версия для мира
 
-`Составлено с помощью [Editor.md](http://editor.md.ipandao.com/en.html)`
+
+
+Составлено с помощью [Editor.md](http://editor.md.ipandao.com/en.html)
