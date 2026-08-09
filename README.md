@@ -1,6 +1,6 @@
 # Free ![Zona](https://az1.zona.pub/_next/static/media/logo.f7929d5f.webp)
 
-## Модификация приложения [Zona](https://az1.zona.pub/)
+### Модификация приложения [Zona](https://az1.zona.pub/)
 
 Что сделано:
 - отключена реклама;
@@ -9,7 +9,7 @@
 
 Делал для себя. Кто захочет может пользоваться.
 
-## Скачать
+### Скачать
 
 [Последняя версия](https://github.com/julay123/mobi.zona/releases/latest)
 
@@ -34,4 +34,4 @@ FreeZona_3.0.XX_World_ultra_aligned.apk  | версия для мира
 
 
 
-Составлено с помощью [Editor.md](http://editor.md.ipandao.com/en.html)
+Составлено с помощью :editormd-logo-5x: [Editor.md](http://editor.md.ipandao.com/en.html)
