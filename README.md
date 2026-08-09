@@ -1,3 +1,4 @@
+#FREE 
 ![Zona](https://az1.zona.pub/_next/static/media/logo.f7929d5f.webp)
 
 ### Модификация приложения [Zona](https://az1.zona.pub/)
@@ -13,6 +14,7 @@
 
 [Последняя версия](https://github.com/julay123/mobi.zona/releases/latest)
 
+------------
 Автор приложения Zona использует два набора серверов.
 Один для РФ, а другой для мира.
 Сервера для РФ недоступны из мира, а сервера из мира недоступны для РФ.
