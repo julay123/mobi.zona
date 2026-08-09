@@ -1,6 +1,6 @@
 # Free [![Zona](https://az1.zona.pub/_next/static/media/logo.f7929d5f.webp)](https://az1.zona.pub/)
 
-### Модификация приложения [Zona](https://az1.zona.pub/)
+### Модификация приложения [Zona](https://az1.zona.pub/) для Android
 
 Что сделано:
 - отключена реклама;
