@@ -34,4 +34,4 @@ FreeZona_3.0.XX_World_ultra_aligned.apk  | версия для мира
 
 
 
-Составлено с помощью :editormd-logo-5x: [Editor.md](http://editor.md.ipandao.com/en.html)
+Составлено с помощью [Editor.md](http://editor.md.ipandao.com/en.html)
