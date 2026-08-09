@@ -27,9 +27,9 @@
 
 Наименование APK  | Описание
 -|-
-FreeZona_3.0.XX.apk  | версия как в оригинале
-FreeZona_3.0.XX_RU.apk  | версия для РФ
-FreeZona_3.0.XX_World.apk  | версия для мира
+FreeZona_3.0.XX_ultra_aligned.apk  | версия как в оригинале
+FreeZona_3.0.XX_RU_ultra_aligned.apk  | версия для РФ
+FreeZona_3.0.XX_World_ultra_aligned.apk  | версия для мира
 
 
 
