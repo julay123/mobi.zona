@@ -86,7 +86,7 @@
             "versionCode": 1066
         }
     ],
-    "versionCode": 1067,
+    "versionCode": 1066,
     "vastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "noadVastUrl": "https://raw.githubusercontent.com/julay123/mobi.zona/main/getVast",
     "apiHost": "https://apir1.mzona.net"
